@@ -2,6 +2,8 @@
 
 盛大泡泡堂风格的多人网页对战游戏：水蓝色基调，无需账号，输入名字即可建房开战，支持 Bot 补位。
 
+复刻过程见 [issue](https://github.com/tpoisonooo/BnB/issues/1) 。
+
 ![](images/game.png)
 
 在线试玩：https://h3aajdlti6teq.kimi.site ，无需注册，输入名字即可开战
